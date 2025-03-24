@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quickfox15
-- 👀 I’m interested in Web3 software development
-- 🌱 I’m currently learning - gas and payment management with Solidity
-- 💞️ I’m looking for - full stack developer position in web3 projects
+- 👀 I’m interested ....
+- 🌱 I’m currently learning ....
+- 💞️ I’m looking for ....
 - 📫 How to reach me - quickfox15(at)gmail.com
 
 <!---
